@@ -73,17 +73,19 @@
           <marked-element class="description" markdown="{$ block.description $}">
             <div slot="markdown-html"></div>
           </marked-element>
-          <a
+          {% if block.callToAction %}
+            <a
             href="{$ block.callToAction.link $}"
             {% if block.callToAction.newTab %}
             target="_blank" rel="noopener noreferrer"
             {% endif %}
-          >
-            <paper-button class="cta-button animated icon-right">
-              <span>{$ block.callToAction.label $}</span>
-              <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
-            </paper-button>
-          </a>
+            >
+              <paper-button class="cta-button animated icon-right">
+                <span>{$ block.callToAction.label $}</span>
+                <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
+              </paper-button>
+            </a>
+          {% endif%}
         </div>
         {% endfor %}
       </div>

@@ -1,27 +1,27 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
+    "name": "GDG Santa Cruz",
     "twitter": "gdglviv",
     "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "url": "https://www.gdgsantacruz.org"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2019-10-28T08:00:00-04:00",
+  "endDate": "2019-10-28T13:00:00-04:00",
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "Bootcamp",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
-    "locale": "en-US"
+    "locale": "es-US"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "bootcamp2018",
   "disabledSchedule": false,
   "navigation": [
     {
       "route": "home",
       "permalink": "/",
-      "label": "Home"
+      "label": "Inicio"
     },
     {
       "route": "speakers",
@@ -31,17 +31,12 @@
     {
       "route": "schedule",
       "permalink": "/schedule/",
-      "label": "Schedule"
+      "label": "Agenda"
     },
     {
       "route": "team",
       "permalink": "/team/",
-      "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
+      "label": "Equipo"
     }
   ],
   "heroSettings": {
@@ -112,21 +107,21 @@
     }
   },
   "location": {
-    "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "label": "Ubicación",
+    "name": "Universidad Privada de Santa Cruz",
+    "city": "Santa Cruz",
+    "short": "Santa Cruz, Bolivia",
+    "address": "Av. Paraguá y 4to. Anillo, Santa Cruz, Bolivia",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": -17.7621386,
+      "longitude": -63.1477604,
       "zoom": 5
     },
     "mapCenter": {
       "latitude": 48,
       "longitude": 8
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "La UPSA una de las iniversidades de mayor prestigio en la ciudad, la cual tiene todas las comodidades para organizar un evento de este tipo."
   },
   "mediaQueries": {
     "xs": {
@@ -148,11 +143,11 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/GDG-Santa-Cruz/events/264289129/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/events/373526230000341/"
       },
       {
         "name": "twitter",
@@ -179,30 +174,6 @@
     ]
   },
   "mailto": "devfest@gdg.org.ua",
-  "signInProviders": {
-    "providersData": [
-      {
-        "name": "google",
-        "label": "Sign in with Google",
-        "url": "https://accounts.google.com"
-      },
-      {
-        "name": "facebook",
-        "label": "Sign in with Facebook",
-        "url": "https://www.facebook.com"
-      },
-      {
-        "name": "twitter",
-        "label": "Sign in with Twitter",
-        "url": "https://twitter.com"
-      }
-    ],
-    "allowedProvidersUrl": [
-      "https://accounts.google.com",
-      "https://www.facebook.com",
-      "https://twitter.com"
-    ]
-  },
   "contentLoaders": {
     "schedule": {
       "itemsCount": 2

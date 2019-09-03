@@ -1,34 +1,34 @@
 {
-  "title": "GDG DevFest Season 2018",
+  "title": "GDG Bootcamp 2019",
   "description": "Be a hero. Be a GDG!",
   "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "keywords": "evento, gdg, gde, bootcamp, google, programacion, developers, negocios, ia, datos, inteligencia, emprededor",
+  "dates": "28 de septiembre, 2019",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
-  "share": "Share",
-  "followOur": "Follow our",
-  "followUs": "Follow us",
-  "emailUs": "Email us",
+  "share": "Compartir",
+  "followOur": "Sigue nuestro",
+  "followUs": "Siguenos",
+  "emailUs": "Envianos un correo",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Comprar",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
-  "offlineMessage": "You can still work offline.",
-  "cachingComplete": "Caching complete! Future visits will work offline.",
-  "newVersionAvailable": "A new version of this app is available.",
-  "refresh": "Refresh",
+  "offlineMessage": "Puede seguir funcionando sin conexión.",
+  "cachingComplete": "Cacheo completo! Futuras visitas funcionaran sin conexión.",
+  "newVersionAvailable": "Una nueva versión de esta aplicación esta disponible.",
+  "refresh": "Refrescar",
   "position": "Position",
-  "country": "Country",
-  "time": "Time",
+  "country": "País",
+  "time": "Tiempo",
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
   "footer": {
     "blog": "Blog"
   },
   "mySchedule": {
-    "title": "My Schedule",
+    "title": "Mi agenda",
     "browseSession": "Browse sessions"
   },
   "footerRelBlock": [
@@ -113,34 +113,34 @@
       ]
     }
   ],
-  "subscribeNote": "No spam, only the latest news and updates!",
-  "codeOfConduct": "Code of Conduct",
+  "subscribeNote": "No spam, solo las últimas noticias y actualizaciones!",
+  "codeOfConduct": "Código de conducta",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "Lo que necesitas saber, antes de preguntar.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "GDG Santa Cruz trae expertos en Inteligencia de Negocios, Inteligencia Artificial y Datos en charlas de un día.",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
+        "description": "Recomendado por muchos profesionales, el equipo GDG Santa Cruz realiza este evento para ser el mejor sitio para compartir experiencias en un ambiente fenomenal.",
+        "label": "Observa un evento pasado",
         "youtubeId": "TdpbgRgz6eE"
       }
     },
     "statisticsBlock": {
       "attendees": {
-        "label": "Attendees",
-        "number": "900"
+        "label": "Asistentes",
+        "number": "200"
       },
       "days": {
-        "label": "Days",
-        "number": "2"
+        "label": "Dias",
+        "number": "1"
       },
       "sessions": {
-        "label": "Sessions",
-        "number": "50"
+        "label": "Charlas",
+        "number": "5"
       },
       "tracks": {
         "label": "Tracks",
@@ -149,22 +149,22 @@
     }
   },
   "ticketsBlock": {
-    "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-    "soldOut": "You missed it!",
-    "notAvailableYet": "Not available yet",
-    "save": "Save ${discount}% today"
+    "title": "Entradas",
+    "ticketsDetails": "Las entradas cubren todas las charlas y su respectivo refrigerio.",
+    "soldOut": "Te lo perdiste!",
+    "notAvailableYet": "No disponible aún",
+    "save": "Ahorra ${discount}% hoy"
   },
   "partnersBlock": {
     "title": "Partners",
-    "button": "Become a partner",
+    "button": "Convertirse en partner",
     "form": {
-      "title": "Become a partner!",
-      "submitLabel": "Submit",
-      "fullName": "Full Name",
-      "companyName": "Company Name"
+      "title": "Convertirse en partner!",
+      "submitLabel": "Enviar",
+      "fullName": "Nombre completo",
+      "companyName": "Nombre de empresa"
     },
-    "toast": "We will contact you soon!"
+    "toast": "Nos contactaremos pronto!"
   },
   "featuredVideos": {
     "title": "DFUA'16 featured videos",
@@ -178,9 +178,9 @@
     "suggested": "Up next"
   },
   "latestPostsBlock": {
-    "title": "The latest news",
+    "title": "Últimas noticias",
     "callToAction": {
-      "label": "View all stories",
+      "label": "Ver todas",
       "link": "/blog/"
     }
   },
@@ -192,7 +192,7 @@
   "speakersBlock": {
     "title": "Rockstar speakers",
     "callToAction": {
-      "label": "View all speakers",
+      "label": "Ver todos los speakers",
       "link": "/speakers/"
     }
   },
@@ -207,29 +207,29 @@
     "title": "#dfua16 highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
-      "label": "See all photos",
+      "label": "Ver todas las fotos",
       "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
     }
   },
   "mapBlock": {
-    "title": "Location"
+    "title": "Ubicación"
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "description": "Obten notificaciones importantes sobre actualizaciones del evento.",
+      "label": "Suscribirse"
     },
-    "yourEmail": "Your email",
-    "emailAddress": "Email Address",
-    "firstName": "First Name",
-    "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
-    "emailRequired": "Please enter a valid email address.",
-    "subscribe": "Subscribe",
-    "subscribed": "Subscribed",
-    "close": "Close",
-    "generalError": "An error has occurred. Please, try again later.",
-    "toast": "Successfully subscribed!"
+    "yourEmail": "Tu correo electrónico",
+    "emailAddress": "Dirección de correo",
+    "firstName": "Nombres",
+    "lastName": "Apellidos",
+    "formTitle": "Obtenga las últimas actualizaciones y noticias sobre Bootcamp 2019.",
+    "emailRequired": "Favor ingrese una dirección de correo válida.",
+    "subscribe": "Suscribirse",
+    "subscribed": "Suscrito",
+    "close": "Cerrar",
+    "generalError": "Un error occurrió. Por favor, intente mas tarde.",
+    "toast": "Suscrito con éxito!"
   },
   "team": {
     "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
@@ -264,30 +264,25 @@
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "title": "Organizador",
+        "description": "GDG Santa Cruz esta orgulloso en organizar el Bootcamp 2019",
         "callToAction": {
-          "label": "Open team page",
+          "label": "Ver al equipo",
           "link": "/team"
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Groups (GDGs) are communities of volunteers who create exciting projects and share experiences about Google technologies.",
+        "title": "¿Qué es GDG?",
+        "description": "Google Developers Groups (GDGs) son comunidades de voluntarios quienes crean excitantes proyectos y comparten experiencias sobre tecnologías Google.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Leer mas",
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }
       },
       {
-        "title": "What is DevFest?",
-        "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe.",
-        "callToAction": {
-          "label": "Read more",
-          "link": "https://devfest.withgoogle.com/",
-          "newTab": true
-        }
+        "title": "¿Que es Bootcamp?",
+        "description": "Son eventos creados para mostrar tendencias en tecnologías, negocios o temas de interés."
       }
     ]
   },
